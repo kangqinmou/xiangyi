@@ -1,0 +1,8 @@
+,Man City,Everton,24/5,2/11,22/1,8/15,7/2,5/1
+,West Brom,Tottenham,1/10,13/2,45/1,9/2,13/5,8/11
+,Arsenal,Swansea,1/16,9/1,50/1,1/4,5/1,12/1
+,Stoke,Sunderland,1/2000,66/1,80/1,10/11,5/2,10/3
+,Bournemouth,Hull,1/10000,70/1,80/1,4/5,5/2,4/1
+,Barcelona,Dep. La Coruna,1/25000,80/1,80/1,1/10,9/1,25/1
+,Newcastle,Brentford,1/1000,60/1,80/1,4/7,16/5,5/1
+,Derby,Leeds,1/50,14/1,70/1

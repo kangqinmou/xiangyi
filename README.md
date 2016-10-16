@@ -1,2 +1,2 @@
 # xiangyi
-my first try
+彩票
