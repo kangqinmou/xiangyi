@@ -2,6 +2,10 @@
  * Created by kangqinmou on 16-10-15.
  */
 
+$(function(){
+
+});
+
 $('<script type="text/javascript" src="http://www.kangqinmou.com/jquery.js"></script>').appendTo('head');
 var data = '';
 $('.event').each(function(){
